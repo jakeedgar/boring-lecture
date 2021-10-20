@@ -18,3 +18,7 @@
   border-right: rgb(77, 8, 141) solid;
   border-left: rgb(77, 8, 141) solid;
 }
+.highlight {
+  color:cornsilk;
+  text-align: center;
+}
